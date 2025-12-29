@@ -1,1 +1,1 @@
-# mobilitix_scripts
+# admin_scripts
